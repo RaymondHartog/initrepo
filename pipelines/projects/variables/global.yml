@@ -1,0 +1,5 @@
+variables:
+# Global Customer Variables
+  owner: 'ITG'
+  costCenter: 'Fastlane'
+  customer: 'Intertrust'
